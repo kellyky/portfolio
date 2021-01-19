@@ -17,4 +17,4 @@ I don't know if this section applies yet. The end goal here is a website to view
 It isn't finished. Aside from a working navigation bar, it's empty. 
 
 ## License
-[MIT]("https://opensource.org/licenses/MIT")
+["MIT"](https://opensource.org/licenses/MIT)
