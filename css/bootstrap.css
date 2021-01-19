@@ -3784,12 +3784,14 @@ textarea.form-control-lg {
   display: flex;
   flex-wrap: wrap;
   padding-left: 0;
+  padding-right: 10px;
   margin-bottom: 0;
   list-style: none;
+  justify-content: flex-end;
 }
 
 .nav-link {
-  display: block;
+  display: inline;
   padding: 0.5rem 1rem;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;

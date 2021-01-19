@@ -1,0 +1,36 @@
+h1 {
+  padding: 10px;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+li {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header {
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+}
+ header * {
+   display: inline;
+ }
+
+body {
+  font-family: sans-serif;
+  height: 125vh;
+  background-color: white;
+  background-image: url("../img/beach.jpg");
+  background-size: cover;
+  margin-top: 80px;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
